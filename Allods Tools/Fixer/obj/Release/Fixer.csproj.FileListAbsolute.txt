@@ -1,0 +1,9 @@
+D:\PROJECTS\Allods Tools\Fixer\bin\Release\Fixer.exe.config
+D:\PROJECTS\Allods Tools\Fixer\bin\Release\Fixer.exe
+D:\PROJECTS\Allods Tools\Fixer\bin\Release\Fixer.pdb
+D:\PROJECTS\Allods Tools\Fixer\obj\Release\Fixer.csprojResolveAssemblyReference.cache
+D:\PROJECTS\Allods Tools\Fixer\obj\Release\Fixer.FixerForm.resources
+D:\PROJECTS\Allods Tools\Fixer\obj\Release\Fixer.Properties.Resources.resources
+D:\PROJECTS\Allods Tools\Fixer\obj\Release\Fixer.csproj.GenerateResource.Cache
+D:\PROJECTS\Allods Tools\Fixer\obj\Release\Fixer.exe
+D:\PROJECTS\Allods Tools\Fixer\obj\Release\Fixer.pdb

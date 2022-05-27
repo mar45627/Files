@@ -1,0 +1,11 @@
+D:\PROJECTS\Allods Tools\TextsEditor\bin\Debug\TextsEditor.exe.config
+D:\PROJECTS\Allods Tools\TextsEditor\bin\Debug\TextsEditor.exe
+D:\PROJECTS\Allods Tools\TextsEditor\bin\Debug\TextsEditor.pdb
+D:\PROJECTS\Allods Tools\TextsEditor\bin\Debug\Ionic.Zip.dll
+D:\PROJECTS\Allods Tools\TextsEditor\bin\Debug\Ionic.Zip.xml
+D:\PROJECTS\Allods Tools\TextsEditor\obj\Debug\TextsEditor.EditorForm.resources
+D:\PROJECTS\Allods Tools\TextsEditor\obj\Debug\TextsEditor.Properties.Resources.resources
+D:\PROJECTS\Allods Tools\TextsEditor\obj\Debug\TextsEditor.csproj.GenerateResource.Cache
+D:\PROJECTS\Allods Tools\TextsEditor\obj\Debug\TextsEditor.exe
+D:\PROJECTS\Allods Tools\TextsEditor\obj\Debug\TextsEditor.pdb
+D:\PROJECTS\Allods Tools\TextsEditor\obj\Debug\TextsEditor.csprojResolveAssemblyReference.cache

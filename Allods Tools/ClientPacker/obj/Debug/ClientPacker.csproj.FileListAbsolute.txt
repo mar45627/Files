@@ -1,0 +1,9 @@
+D:\PROJECTS\Allods Tools\ClientPacker\bin\Debug\ClientPacker.exe.config
+D:\PROJECTS\Allods Tools\ClientPacker\bin\Debug\ClientPacker.exe
+D:\PROJECTS\Allods Tools\ClientPacker\bin\Debug\ClientPacker.pdb
+D:\PROJECTS\Allods Tools\ClientPacker\obj\Debug\ClientPacker.csprojResolveAssemblyReference.cache
+D:\PROJECTS\Allods Tools\ClientPacker\obj\Debug\ClientPacker.ClientForm.resources
+D:\PROJECTS\Allods Tools\ClientPacker\obj\Debug\ClientPacker.Properties.Resources.resources
+D:\PROJECTS\Allods Tools\ClientPacker\obj\Debug\ClientPacker.csproj.GenerateResource.Cache
+D:\PROJECTS\Allods Tools\ClientPacker\obj\Debug\ClientPacker.exe
+D:\PROJECTS\Allods Tools\ClientPacker\obj\Debug\ClientPacker.pdb

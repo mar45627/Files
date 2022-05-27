@@ -1,0 +1,9 @@
+D:\PROJECTS\Allods Tools\FtpEnginer\bin\Debug\FtpEnginer.exe.config
+D:\PROJECTS\Allods Tools\FtpEnginer\bin\Debug\FtpEnginer.exe
+D:\PROJECTS\Allods Tools\FtpEnginer\bin\Debug\FtpEnginer.pdb
+D:\PROJECTS\Allods Tools\FtpEnginer\obj\Debug\FtpEnginer.csprojResolveAssemblyReference.cache
+D:\PROJECTS\Allods Tools\FtpEnginer\obj\Debug\FtpEnginer.FTP.resources
+D:\PROJECTS\Allods Tools\FtpEnginer\obj\Debug\FtpEnginer.Properties.Resources.resources
+D:\PROJECTS\Allods Tools\FtpEnginer\obj\Debug\FtpEnginer.csproj.GenerateResource.Cache
+D:\PROJECTS\Allods Tools\FtpEnginer\obj\Debug\FtpEnginer.exe
+D:\PROJECTS\Allods Tools\FtpEnginer\obj\Debug\FtpEnginer.pdb

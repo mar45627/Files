@@ -1,0 +1,10 @@
+D:\PROJECTS\Allods Tools\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\PROJECTS\Allods Tools\BinarySearch\bin\Debug\BinarySearch.exe
+D:\PROJECTS\Allods Tools\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\PROJECTS\Allods Tools\BinarySearch\bin\Debug\Ionic.Zip.dll
+D:\PROJECTS\Allods Tools\BinarySearch\bin\Debug\Ionic.Zip.xml
+D:\PROJECTS\Allods Tools\BinarySearch\obj\Debug\BinarySearch.MainForm.resources
+D:\PROJECTS\Allods Tools\BinarySearch\obj\Debug\BinarySearch.Properties.Resources.resources
+D:\PROJECTS\Allods Tools\BinarySearch\obj\Debug\BinarySearch.csproj.GenerateResource.Cache
+D:\PROJECTS\Allods Tools\BinarySearch\obj\Debug\BinarySearch.exe
+D:\PROJECTS\Allods Tools\BinarySearch\obj\Debug\BinarySearch.pdb

@@ -1,0 +1,9 @@
+D:\PROJECTS\Allods Tools\FastIndexer\bin\Debug\FastIndexer.exe.config
+D:\PROJECTS\Allods Tools\FastIndexer\bin\Debug\FastIndexer.exe
+D:\PROJECTS\Allods Tools\FastIndexer\bin\Debug\FastIndexer.pdb
+D:\PROJECTS\Allods Tools\FastIndexer\obj\Debug\FastIndexer.csprojResolveAssemblyReference.cache
+D:\PROJECTS\Allods Tools\FastIndexer\obj\Debug\FastIndexer.Form1.resources
+D:\PROJECTS\Allods Tools\FastIndexer\obj\Debug\FastIndexer.Properties.Resources.resources
+D:\PROJECTS\Allods Tools\FastIndexer\obj\Debug\FastIndexer.csproj.GenerateResource.Cache
+D:\PROJECTS\Allods Tools\FastIndexer\obj\Debug\FastIndexer.exe
+D:\PROJECTS\Allods Tools\FastIndexer\obj\Debug\FastIndexer.pdb

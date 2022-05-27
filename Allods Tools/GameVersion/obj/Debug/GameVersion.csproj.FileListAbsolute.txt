@@ -1,0 +1,11 @@
+D:\PROJECTS\Allods Tools\GameVersion\bin\Debug\GameVersion.exe.config
+D:\PROJECTS\Allods Tools\GameVersion\bin\Debug\GameVersion.exe
+D:\PROJECTS\Allods Tools\GameVersion\bin\Debug\GameVersion.pdb
+D:\PROJECTS\Allods Tools\GameVersion\bin\Debug\Ionic.Zip.dll
+D:\PROJECTS\Allods Tools\GameVersion\bin\Debug\Ionic.Zip.xml
+D:\PROJECTS\Allods Tools\GameVersion\obj\Debug\GameVersion.csprojResolveAssemblyReference.cache
+D:\PROJECTS\Allods Tools\GameVersion\obj\Debug\GameVersion.TruncatorForm.resources
+D:\PROJECTS\Allods Tools\GameVersion\obj\Debug\GameVersion.Properties.Resources.resources
+D:\PROJECTS\Allods Tools\GameVersion\obj\Debug\GameVersion.csproj.GenerateResource.Cache
+D:\PROJECTS\Allods Tools\GameVersion\obj\Debug\GameVersion.exe
+D:\PROJECTS\Allods Tools\GameVersion\obj\Debug\GameVersion.pdb

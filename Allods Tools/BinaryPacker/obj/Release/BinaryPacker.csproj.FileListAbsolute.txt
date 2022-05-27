@@ -1,0 +1,10 @@
+D:\PROJECTS\Allods Tools\BinaryPacker\bin\Release\BinaryPacker.exe.config
+D:\PROJECTS\Allods Tools\BinaryPacker\bin\Release\BinaryPacker.exe
+D:\PROJECTS\Allods Tools\BinaryPacker\bin\Release\BinaryPacker.pdb
+D:\PROJECTS\Allods Tools\BinaryPacker\bin\Release\Ionic.Zip.dll
+D:\PROJECTS\Allods Tools\BinaryPacker\bin\Release\Ionic.Zip.xml
+D:\PROJECTS\Allods Tools\BinaryPacker\obj\Release\BinaryPacker.MainPacker.resources
+D:\PROJECTS\Allods Tools\BinaryPacker\obj\Release\BinaryPacker.Properties.Resources.resources
+D:\PROJECTS\Allods Tools\BinaryPacker\obj\Release\BinaryPacker.csproj.GenerateResource.Cache
+D:\PROJECTS\Allods Tools\BinaryPacker\obj\Release\BinaryPacker.exe
+D:\PROJECTS\Allods Tools\BinaryPacker\obj\Release\BinaryPacker.pdb

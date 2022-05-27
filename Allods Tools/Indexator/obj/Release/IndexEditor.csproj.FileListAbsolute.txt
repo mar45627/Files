@@ -1,0 +1,9 @@
+D:\PROJECTS\Allods Tools\IndexEditor\bin\Release\IndexEditor.exe.config
+D:\PROJECTS\Allods Tools\IndexEditor\bin\Release\IndexEditor.exe
+D:\PROJECTS\Allods Tools\IndexEditor\bin\Release\IndexEditor.pdb
+D:\PROJECTS\Allods Tools\IndexEditor\obj\Release\IndexEditor.csprojResolveAssemblyReference.cache
+D:\PROJECTS\Allods Tools\IndexEditor\obj\Release\IndexEditor.IndexForm.resources
+D:\PROJECTS\Allods Tools\IndexEditor\obj\Release\IndexEditor.Properties.Resources.resources
+D:\PROJECTS\Allods Tools\IndexEditor\obj\Release\IndexEditor.csproj.GenerateResource.Cache
+D:\PROJECTS\Allods Tools\IndexEditor\obj\Release\IndexEditor.exe
+D:\PROJECTS\Allods Tools\IndexEditor\obj\Release\IndexEditor.pdb

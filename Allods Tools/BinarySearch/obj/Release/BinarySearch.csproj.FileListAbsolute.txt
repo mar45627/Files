@@ -1,0 +1,11 @@
+D:\PROJECTS\Allods Tools\BinarySearch\bin\Release\BinarySearch.exe.config
+D:\PROJECTS\Allods Tools\BinarySearch\bin\Release\BinarySearch.exe
+D:\PROJECTS\Allods Tools\BinarySearch\bin\Release\BinarySearch.pdb
+D:\PROJECTS\Allods Tools\BinarySearch\obj\Release\BinarySearch.csprojResolveAssemblyReference.cache
+D:\PROJECTS\Allods Tools\BinarySearch\obj\Release\BinarySearch.MainForm.resources
+D:\PROJECTS\Allods Tools\BinarySearch\obj\Release\BinarySearch.Properties.Resources.resources
+D:\PROJECTS\Allods Tools\BinarySearch\obj\Release\BinarySearch.csproj.GenerateResource.Cache
+D:\PROJECTS\Allods Tools\BinarySearch\obj\Release\BinarySearch.exe
+D:\PROJECTS\Allods Tools\BinarySearch\obj\Release\BinarySearch.pdb
+D:\PROJECTS\Allods Tools\BinarySearch\bin\Release\Ionic.Zip.dll
+D:\PROJECTS\Allods Tools\BinarySearch\bin\Release\Ionic.Zip.xml
